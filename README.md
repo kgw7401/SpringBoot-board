@@ -2,7 +2,7 @@
 스프링 부트를 이용한 게시판 만들기 프로젝트
 
 ## 목표
-[[스프링 부트] 게시판 무작정 따라하기](https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ&index=1) 유튜브 강의를 따라하며 스프링 부트와 간단한 CRUD API 개발을 경험해본다.
+[[스프링 부트] 게시판 무작정 따라하기](https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ&index=1)를 통해 스프링 부트와 간단한 CRUD API 개발을 경험해본다.
 
 ## 개발 환경
 <img width="700" alt="스크린샷 2023-07-12 오전 11 48 02" src="https://github.com/kgw7401/SpringBoot-board/assets/78521993/12f16eaf-8d60-4319-9b67-2abde2e393b0">
